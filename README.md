@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @WelshRichy
-- 👀 I’m interested in C#, ASP.NET Core, EF Core
-- 🌱 I’m currently learning SQL Server
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#, ASP.NET Core, EF Core, SQL Server
 - 📫 How to reach me ...
 
 <!---
